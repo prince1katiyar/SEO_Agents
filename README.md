@@ -94,7 +94,7 @@ streamlit run app.py
   <p>MIT License</p>
 
   <h2>📬 Contact</h2>
-  <p>Created with ❤️ by <strong>Your Name</strong><br>
-  🔗 <a href="https://github.com/yourusername">GitHub</a> | 🌐 <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></p>
+  <p>Created with ❤️ by <strong>Prince katiyar</strong><br>
+  🔗 <a href="https://github.com/prince1katiyar">GitHub</a> | 🌐 <a href="https://www.linkedin.com/in/katiyarprince/">LinkedIn</a></p>
 </body>
 </html>
